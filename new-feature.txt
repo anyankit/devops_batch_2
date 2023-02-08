@@ -2,17 +2,6 @@ this is new feature
 
 again new feature added
 line added for conflict
-<<<<<<< HEAD
-<<<<<<< HEAD
 second file
-<<<<<<< HEAD
 forth line conflict in local
-=======
 third conflict from remote 
->>>>>>> 63d94611f44764b4d7b7e47b5ad971f4a852d576
-=======
-second file
->>>>>>> 812f466 (added)
-=======
-second file
->>>>>>> 812f466 (added)
