@@ -3,3 +3,4 @@ this is new feature
 again new feature added
 line added for conflict
 second file
+forth line conflict in local
