@@ -2,3 +2,4 @@ this is new feature
 
 again new feature added
 this is for remote to create conflict 
+one more conflict 
